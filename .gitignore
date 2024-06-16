@@ -1,0 +1,5 @@
+migrations/
+instance/
+test.py
+*.log
+wnote.txt
