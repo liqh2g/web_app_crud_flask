@@ -3,3 +3,5 @@ instance/
 test.py
 *.log
 wnote.txt
+__pycache__/
+*.pyc
